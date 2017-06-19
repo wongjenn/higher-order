@@ -1,4 +1,6 @@
-# ReduxSimpleStarter
+# Higher Order Functions
+
+learning Authenication Higher Order Component via Udemy
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
