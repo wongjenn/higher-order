@@ -1,6 +1,7 @@
 # Higher Order Functions
 
-learning Authenication Higher Order Component via Udemy
+Learning Authenication Higher Order Component via Udemy.
+Using React, Redux, React-Router and BootStrap.
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
